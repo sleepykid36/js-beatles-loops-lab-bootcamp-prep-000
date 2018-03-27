@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function theBeatlesPlay(musicians, instruments) {
   const array = []
 
@@ -25,4 +26,10 @@ function iLoveTheBeatles(n) {
     n++
   } while (n<15)
   return array
+=======
+function theBeatlesPlay(){
+  const array = []
+  
+  
+>>>>>>> a05570f5e446e3423540e2e26de7691a88d038b5
 }
